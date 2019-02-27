@@ -1,0 +1,13 @@
+.collored {
+	background-color: #efefe7;
+	margin: 2em 1em;
+}
+
+button {
+	margin: 1.25em;
+}
+
+button:hover {
+	transform: scale(1.5);
+	transition: transform 1s;
+}

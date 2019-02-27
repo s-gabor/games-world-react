@@ -1,0 +1,8 @@
+h1 {
+  display: inline-flex;
+}
+
+.react-logo {
+	background: transparent;
+	border: none;
+}
